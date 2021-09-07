@@ -1,11 +1,11 @@
 {
-  "name": "slick-carousel",
+  "name": "@eneserk/slick-carousel",
   "version": "1.8.1",
   "description": "the last carousel you'll ever need",
   "main": "slick/slick.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kenwheeler/slick.git"
+    "url": "https://github.com/erkenes/slick-slider.git"
   },
   "keywords": [
     "carousel",
@@ -14,7 +14,11 @@
     "js",
     "slider"
   ],
-  "author": "Ken Wheeler <ken_wheeler@me.com>",
+  "author": {
+    "email": "support@eneserk.de",
+    "name": "Enes Erk",
+    "url": "https://github.com/erkenes"
+  },
   "contributors": [
     {
       "name": "ken wheeler",
@@ -42,7 +46,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kenwheeler/slick/issues"
+    "url": "https://github.com/erkenes/slick-slider/issues"
   },
   "peerDependencies": {
     "jquery": ">=1.8.0"

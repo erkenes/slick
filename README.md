@@ -1,7 +1,12 @@
 slick
 -------
 
-[1]: <https://github.com/kenwheeler/slick>
+> :warning: Please use currently the original Package. This package is still under development and not ready yet.<br><br>
+Fell free to contribute to the [available projects](https://github.com/erkenes/slick-slider/projects) that are still open.
+
+---
+
+[1]: <https://github.com/erkenes/slick-slider>
 
 _the last carousel you'll ever need_
 
@@ -11,7 +16,7 @@ _the last carousel you'll ever need_
 
 #### CDN
 
-To start working with Slick right away, there's a couple of CDN choices availabile
+To start working with Slick right away, there's a couple of CDN choices available
 to serve the files as close, and fast as possible to your users:
 
 - https://cdnjs.com/libraries/slick-carousel
@@ -285,7 +290,7 @@ jQuery 1.7
 
 #### License
 
-Copyright (c) 2017 Ken Wheeler
+Copyright (c) 2017 - 2021 Ken Wheeler, Enes Erk
 
 Licensed under the MIT license.
 
